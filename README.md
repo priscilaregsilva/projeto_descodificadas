@@ -1,6 +1,11 @@
-### Entregar o código do site que criou lá no Google Sites em HTML, CSS e JavaScript. 
+## Entregar o código do site que criou lá no Google Sites em HTML, CSS e JavaScript. 
 
-## Os requisitos a serem incluídos em seus sites, são eles:
+
+### Link do site no GitHub
+https://priscilaregsilva.github.io/projeto_descodificadas/
+
+
+### Os requisitos a serem incluídos em seus sites, são eles:
 
 * Logotipo;
 * Menu;
